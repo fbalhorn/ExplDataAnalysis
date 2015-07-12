@@ -1,4 +1,3 @@
-setwd('Y:/Weiterbildung/Coursera/Data_Science/Exploratory Data Analysis/week1')
 
 #dataimport and subset right dates
 data<-read.csv2('household_power_consumption.txt')
